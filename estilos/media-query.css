@@ -20,9 +20,6 @@
 
     form > a.botao > span {
         font-size: 1.1em;
-        position: absolute;
-        top: 84.9%;
-        left: 81.1%;
     }
 }
 
@@ -56,8 +53,5 @@
 
     form > a.botao > span {
         font-size: 1.1em;
-        position: absolute;
-        top: 85.3%;
-        left: 31.8%;
     }
 }
