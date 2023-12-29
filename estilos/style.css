@@ -136,8 +136,3 @@ form > a.botao:hover {
     background-color: #2cadc4;
     color: white;
 }
-
-form > a.botao > span {
-    font-size: 1.1em;
-    position: relative;
-}

@@ -17,11 +17,6 @@
         float: right;
         width: 60%;
     }
-
-    form > a.botao > span {
-        font-size: 1.1em;
-        position: relative;
-    }
 }
 
 @media screen and (min-width: 992px) {
@@ -50,10 +45,5 @@
     section p {
         text-align: justify;
         font-size: 1.1em;
-    }
-
-    form > a.botao > span {
-        font-size: 1.1em;
-        position: relative;
     }
 }
